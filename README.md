@@ -67,3 +67,7 @@ A real-time collaborative document editor is a type of web-based application tha
 
 A real-time collaborative document editor is an essential tool for modern-day collaboration, enabling teams to work together on documents with ease and efficiency. By integrating tools like WebSockets, Firebase, and rich text editors, these platforms provide seamless experiences where multiple users can simultaneously contribute, comment, and edit documents in real time. The combination of robust cloud storage, real-time synchronization, and secure authentication ensures a reliable and user-friendly platform for collaborative work across various fields.
 
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/ace34a8b-8fe6-414c-9a12-3742e003804e)
+
